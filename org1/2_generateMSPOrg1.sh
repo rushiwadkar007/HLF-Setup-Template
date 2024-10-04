@@ -60,6 +60,7 @@ createMSPPeer1() {
   # --------------------------------------------------------------------------------------------------
 
 }
+
 generateUserMSP() {
   mkdir -p crypto-config-ca/peerOrganizations/org1.example.com/users
   mkdir -p crypto-config-ca/peerOrganizations/org1.example.com/users/User1@org1.example.com
